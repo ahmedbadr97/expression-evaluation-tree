@@ -15,3 +15,5 @@
     - used to print the tree data in pre order (preorder tree traversal) -> operator operand1 operand2
 4. post order
     - used to print the tree data in post order (postorder tree traversal) -> operand1 operand2 operator
+
+![cli sample input image](sample.JPG)
