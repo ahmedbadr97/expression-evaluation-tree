@@ -1,5 +1,6 @@
 # expression-evaluation-tree
-- c++ expression evaluation tree for evaluation mathematical operators considering the priority for each operator and for brackets also for (learning purpose)
+- c++ expression evaluation tree for evaluation mathematical operators considering the priority for each operator and for brackets also (for learning purpose)
+- implementing stack and binary search tree from scratch
 - input consists of digits (not numbers) and operators only (*,/,+,-) and brackets ()
 
 ![cli preview image](cli_preview.JPG)
